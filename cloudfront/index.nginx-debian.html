@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EC2 > ALB > CloudFront Architecture</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f4f8;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 40px;
+    }
+
+    .box {
+      display: inline-block;
+      padding: 20px 40px;
+      margin: 20px;
+      border-radius: 15px;
+      color: white;
+      font-weight: bold;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .ec2 {
+      background: #e67e22;
+    }
+
+    .alb {
+      background: #2980b9;
+    }
+
+    .cloudfront {
+      background: #27ae60;
+    }
+
+    .arrow {
+      font-size: 30px;
+      color: #7f8c8d;
+      margin: 0 15px;
+      vertical-align: middle;
+    }
+
+    .row {
+      margin-top: 20px;
+    }
+
+    .row.ec2s {
+      display: flex;
+      justify-content: center;
+      gap: 60px;
+    }
+
+    .ec2s .box {
+      min-width: 120px;
+    }
+
+    @media (max-width: 600px) {
+      .row.ec2s {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>EC2 Instances → ALB → CloudFront</h1>
+
+  <div class="row ec2s">
+    <div class="box ec2">EC2A</div>
+    <div class="box ec2">EC2B</div>
+  </div>
+
+  <div class="row">
+    <div class="arrow">⬇️</div>
+  </div>
+
+  <div class="row">
+    <div class="box alb">Application Load Balancer (ALB)</div>
+  </div>
+
+  <div class="row">
+    <div class="arrow">⬇️</div>
+  </div>
+
+  <div class="row">
+    <div class="box cloudfront">Amazon CloudFront</div>
+  </div>
+
+</body>
+</html>
