@@ -1,0 +1,90 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: VPC template
+# Resources section
+Resources:
+  myVPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 172.168.0.0/16
+      EnableDnsSupport: 'true'
+      EnableDnsHostnames: 'true'
+      Tags:
+       - Key: Name
+         Value: Aja-VPC
+
+  myInternetGateway:
+    Type: AWS::EC2::InternetGateway
+    Properties:
+      Tags:
+      - Key: Name
+        Value: Aja-IGW
+
+  AttachGateway:
+    Type: AWS::EC2::VPCGatewayAttachment
+    Properties:
+      VpcId:
+         Ref: myVPC
+      InternetGatewayId:
+         Ref: myInternetGateway
+
+
+  myPubSubnet:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref myVPC
+      CidrBlock: 172.168.0.0/20
+      AvailabilityZone: "us-east-1a"
+      Tags:
+      - Key: Name
+        Value: Aja-app-sub
+
+  myPvtSubnet:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref myVPC
+      CidrBlock: 172.168.16.0/20
+      AvailabilityZone: "us-east-1b"
+      Tags:
+      - Key: Name
+        Value: Aja-db-sub
+
+  myPubRouteTable:
+    Type: AWS::EC2::RouteTable
+    Properties:
+      VpcId:  
+        Ref: myVPC
+      Tags:
+      - Key: Name
+        Value: Aja-app-rt
+
+  myPvtRouteTable:
+    Type: AWS::EC2::RouteTable
+    Properties:
+      VpcId:  
+        Ref: myVPC
+      Tags:
+      - Key: Name
+        Value: Aja-db-rt
+
+  myPubSubnetRouteTableAssociation:
+    Type: AWS::EC2::SubnetRouteTableAssociation
+    Properties:
+      SubnetId:
+        Ref: myPubSubnet
+      RouteTableId:
+        Ref: myPubRouteTable
+
+  myPvtSubnetRouteTableAssociation:
+    Type: AWS::EC2::SubnetRouteTableAssociation
+    Properties:
+      SubnetId:
+        Ref: myPvtSubnet
+      RouteTableId:
+        Ref: myPvtRouteTable
+
+  MyIGWRoute:
+    Type: AWS::EC2::Route
+    Properties:
+      RouteTableId: !Ref myPubRouteTable
+      DestinationCidrBlock: 0.0.0.0/0
+      GatewayId: !Ref  myInternetGateway
