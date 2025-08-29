@@ -143,7 +143,7 @@ cloudformation.yaml file
 ---
 ## 🗺️ Architecture Diagram:
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/91ed09df-9d8a-40cf-836f-84d8876c4dca" />
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d654b7cf-c5bb-4836-955d-b0345cd9bd8a" />
 
 📄 Infrastructure as Code
 This project uses AWS CloudFormation to provision all resources.
@@ -162,23 +162,23 @@ Remove any hardcoded passwords, secrets, or keys before uploading.
 
 ## cloudformation:
 
-<img width="1902" height="917" alt="Image" src="https://github.com/user-attachments/assets/d48b46f5-94b9-461c-8305-c5667f9808fe" />
+<img width="1891" height="916" alt="Image" src="https://github.com/user-attachments/assets/16cd46ab-7ea9-4c1d-bd68-6bcc689753b6" />
 
 ## demo-vpc:
 
-<img width="1892" height="907" alt="Image" src="https://github.com/user-attachments/assets/983a49e2-d2eb-4adf-815f-00d9dc6ef076" />
+<img width="1902" height="916" alt="Image" src="https://github.com/user-attachments/assets/cda9e683-df4d-446d-a566-bfaa40d36152" />
 
 ## demo-db-sub:
 
-<img width="1890" height="917" alt="Image" src="https://github.com/user-attachments/assets/00f6890b-d67e-4185-ad49-5a31a8fe5cea" />
+<img width="1880" height="913" alt="Image" src="https://github.com/user-attachments/assets/00e41c45-4fd1-41e8-b345-a270fba22042" />
 
 ## demo-app:
 
-<img width="1895" height="912" alt="Image" src="https://github.com/user-attachments/assets/aa67f7cb-2ef5-408f-9ff4-d07b29b4b842" />
+<img width="1037" height="507" alt="Image" src="https://github.com/user-attachments/assets/0bae94b5-0a71-4dfc-86cd-d27b3b4ea8d5" />
 
 ## Route-tables:
 
-<img width="1897" height="912" alt="Image" src="https://github.com/user-attachments/assets/0834eaef-1db4-4388-993b-939373f48258" />
+<img width="1047" height="498" alt="Image" src="https://github.com/user-attachments/assets/087b985d-7105-4020-b301-6134473ec710" />
 
 ## internet gateway (IGW):
 
