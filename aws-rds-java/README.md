@@ -182,27 +182,27 @@ Remove any hardcoded passwords, secrets, or keys before uploading.
 
 ## internet gateway (IGW):
 
-<img width="1895" height="922" alt="Image" src="https://github.com/user-attachments/assets/c0ad3e25-f134-4bb1-bbc3-5c74254c9b94" />
+<img width="1042" height="502" alt="Image" src="https://github.com/user-attachments/assets/09c6eddd-d152-49ce-9957-37d6e928de05" />
 
 ## Database-NAT-gatway(DB-NAT):
 
-<img width="1897" height="908" alt="Image" src="https://github.com/user-attachments/assets/0340370b-fec3-4e12-a91b-82eaf7e7a67b" />
+<img width="1041" height="506" alt="Image" src="https://github.com/user-attachments/assets/dc3c28ea-0472-420f-b8db-7a3d99173208" />
 
 ## Output of web-app:
 
-<img width="1898" height="975" alt="Image" src="https://github.com/user-attachments/assets/753353d3-a907-4e57-990e-3f8c243d69d9" />
+<img width="1051" height="532" alt="Image" src="https://github.com/user-attachments/assets/ef9ccbbe-3750-4004-872c-04abcd5a4002" />
 
 ## Register a web-app:
 
-<img width="1691" height="792" alt="Image" src="https://github.com/user-attachments/assets/e0ce0886-7d06-4f34-a757-32dfad4c7cd4" />
+<img width="1051" height="495" alt="Image" src="https://github.com/user-attachments/assets/1bbfc0bc-cbc2-475e-baf7-b5d243556ada" />
 
 ## Login web app:
 
-<img width="1568" height="597" alt="Image" src="https://github.com/user-attachments/assets/832cab57-dd83-43a6-b2be-f28a33a6b01f" />
+<img width="1028" height="432" alt="Image" src="https://github.com/user-attachments/assets/9da4aca2-0b7e-4219-bb68-9cd1315fe8b0" />
 
 ## output of web app:
 
-<img width="1133" height="758" alt="Image" src="https://github.com/user-attachments/assets/10a25c0f-1796-48c0-9c3c-7ed936cee0a1" />
+<img width="1041" height="697" alt="Image" src="https://github.com/user-attachments/assets/8a402576-aaa8-41df-a9bf-c4e3cc5487f4" />
 
 ---
 
