@@ -9,7 +9,7 @@ Interface Endpoint for AWS Secrets Manager
 
 ## 📐 Architecture Overview:
 
-<img width="1135" height="680" alt="Image" src="https://github.com/user-attachments/assets/c76d177d-86ec-490f-9576-dfc76b4f7189" />
+<img width="1135" height="680" alt="Image" src="https://github.com/user-attachments/assets/7fc27576-dd3c-4e35-9d89-eabd3d60d101" />
 
 Subnet	CIDR	Type
 PublicSubnet	10.0.1.0/24	Public
@@ -149,71 +149,71 @@ scp - i pem.file pem.file ubuntu@10.0.0.21:~
 
 ## Cloudformation:
 
-<img width="1893" height="922" alt="Image" src="https://github.com/user-attachments/assets/bbcba8d2-7556-44a0-bb65-7c061577c51e" />
+<img width="1893" height="922" alt="Image" src="https://github.com/user-attachments/assets/a951fbbd-e114-4225-8c5c-0593eb1c5364" />
 
 ## VPC Endpoint:
 
-<img width="1912" height="902" alt="Image" src="https://github.com/user-attachments/assets/2f10e92b-ca58-4365-85e1-2b289ae1ef25" />
+<img width="1912" height="902" alt="Image" src="https://github.com/user-attachments/assets/a7e0b963-3046-4b50-8e1a-94806f5abce8" />
 
 ## VPC Endpoint-pub:
 
-<img width="1917" height="916" alt="Image" src="https://github.com/user-attachments/assets/7e16b300-5a0f-4377-b75e-508618db7a02" />
+<img width="1917" height="916" alt="Image" src="https://github.com/user-attachments/assets/25ee482a-d4df-4dcb-9996-70f06ec29b97" />
 
 ## VPC Endpoint-pvt:
 
-<img width="1908" height="913" alt="Image" src="https://github.com/user-attachments/assets/51928071-4e11-49ff-85bf-f4154eefbb45" />
+<img width="1908" height="913" alt="Image" src="https://github.com/user-attachments/assets/72d41a70-d2ff-4716-9833-d74748c88cb6" />
 
 ## VPC Endpoint-pub-rt:
 
-<img width="1913" height="922" alt="Image" src="https://github.com/user-attachments/assets/148d1234-1780-44db-a892-1cfd1c79af21" />
+<img width="1913" height="922" alt="Image" src="https://github.com/user-attachments/assets/1bcfb399-c792-41ab-9347-b20234db9853" />
 
 ## VPC Endpoint-pvt-rt:
 
-<img width="1918" height="917" alt="Image" src="https://github.com/user-attachments/assets/1e6da0f2-1d69-46c4-b55e-c0b8cc957fd2" />
+<img width="1918" height="917" alt="Image" src="https://github.com/user-attachments/assets/e0abeb74-7a81-4d58-bb09-79cce310d8f7" />
 
 ## VPC Endpoint-igw:
 
-<img width="1912" height="912" alt="Image" src="https://github.com/user-attachments/assets/8cc00088-f9ff-4b60-9be7-c11d8b67ce06" />
+<img width="1912" height="912" alt="Image" src="https://github.com/user-attachments/assets/639e336f-f840-4d12-be1e-045cd19bce01" />
 
 ## VPC Endpoints:
 
-<img width="1917" height="917" alt="Image" src="https://github.com/user-attachments/assets/136f7ed1-ade2-427a-ab2b-d1093f925576" />
+<img width="1917" height="917" alt="Image" src="https://github.com/user-attachments/assets/2d495cae-3e26-44ad-8e5e-9e4f6c5a9a75" />
 
 ## VPC Endpoint-route-tables:
 
-<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/498d8656-559b-42a0-aea5-8bdc19ada7aa" />
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/531e21b5-94ef-43ac-9bd2-4ef1ea7bf066" />
 
 ## EC2A-Pub:
 
-<img width="1900" height="916" alt="Image" src="https://github.com/user-attachments/assets/58b5960d-ccdd-4eda-bf19-c2335354e1c8" />
+<img width="1900" height="916" alt="Image" src="https://github.com/user-attachments/assets/00786444-96d4-4f8e-8582-4954f1ca2669" />
 
 ## EC2B-Pvt:
 
-<img width="1892" height="927" alt="Image" src="https://github.com/user-attachments/assets/eec593ec-b960-4c6a-bc47-36663fa1089c" />
+<img width="1892" height="927" alt="Image" src="https://github.com/user-attachments/assets/4136c072-5e43-4f55-8d60-0a807df3aa9e" />
 
 ## EC2B-Pvt-IAM:
 
-<img width="1893" height="926" alt="Image" src="https://github.com/user-attachments/assets/694d9545-7173-4fda-8695-723c7ab60601" />
+<img width="1893" height="926" alt="Image" src="https://github.com/user-attachments/assets/cd27ae85-2a27-4f57-95e4-dc4580ce05c0" />
 
 ## Copy the pem file:
 
-<img width="1102" height="380" alt="Image" src="https://github.com/user-attachments/assets/04a36387-9826-4bda-b50d-c1c6b297754a" />
+<img width="1102" height="380" alt="Image" src="https://github.com/user-attachments/assets/c15f2dd0-588c-4c4e-9acd-b7b3b3298032" />
 
 ## copied the pem file:
 
-<img width="735" height="328" alt="Image" src="https://github.com/user-attachments/assets/cefaf368-1359-4a08-a160-4c367f22a8db" />
+<img width="735" height="328" alt="Image" src="https://github.com/user-attachments/assets/a2cd90fe-1e1c-4b12-afd6-145b0d8125f0" />
 
 ## EC2A-Pub S3:
 
-<img width="832" height="255" alt="Image" src="https://github.com/user-attachments/assets/1cc35644-1424-465e-97ce-0da99a16a193" />
+<img width="832" height="255" alt="Image" src="https://github.com/user-attachments/assets/1d491827-849c-4eb0-ba57-73b796dc6f57" />
 
 ## pem file chmod permissions:
 
-<img width="1161" height="795" alt="Image" src="https://github.com/user-attachments/assets/b901a2a8-418a-48c0-96d9-7147ac2c9785" />
+<img width="1161" height="795" alt="Image" src="https://github.com/user-attachments/assets/a220b554-51bd-4159-916d-1c7d87c2a300" />
 
 ## EC2B-Pvt-S3:
 
-<img width="788" height="261" alt="Image" src="https://github.com/user-attachments/assets/9ea55988-e571-4ab8-bdf0-d4aff7b001e0" />
+<img width="788" height="261" alt="Image" src="https://github.com/user-attachments/assets/3ecb93f5-2817-4f97-a88d-6a86738696de" />
 
 ## 🧹 Cleanup (Optional):
 Terminate EC2-A, EC2-B
