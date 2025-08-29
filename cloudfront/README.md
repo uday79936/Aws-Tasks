@@ -68,63 +68,63 @@ You can now use this domain to serve your static/dynamic content globally.
 
 ## EC2-APP-1:
 
-<img width="1897" height="908" alt="Image" src="https://github.com/user-attachments/assets/b7f6c07b-b011-49bc-a3b7-f6dbf73df69b" />
+<img width="1897" height="908" alt="Image" src="https://github.com/user-attachments/assets/3631c40f-f4e0-4b21-b589-2fa53d3d7566" />
 
 ## EC2-APP-2:
 
-<img width="1897" height="915" alt="Image" src="https://github.com/user-attachments/assets/5d41f473-cda7-4a77-93f3-31b594871b00" />
+<img width="1897" height="915" alt="Image" src="https://github.com/user-attachments/assets/fce5c743-c29a-4374-810a-1a24d295ef7c" />
 
 ## Nginx Command:
 
-<img width="705" height="166" alt="Image" src="https://github.com/user-attachments/assets/59836f59-6784-4428-b9eb-c399f73f4ffb" />
+<img width="705" height="166" alt="Image" src="https://github.com/user-attachments/assets/14840323-22a2-4b57-a481-e5bd4e3ba35f" />
 
 ## Nginx html folder:
 
-<img width="667" height="260" alt="Image" src="https://github.com/user-attachments/assets/a9992bf3-f8fb-42ba-8e0a-38c1aca4200b" />
+<img width="667" height="260" alt="Image" src="https://github.com/user-attachments/assets/d57c60db-64b0-4a9c-a6eb-d25cf25e72e7" />
 
 ## Start Nginx:
 
-<img width="1615" height="595" alt="Image" src="https://github.com/user-attachments/assets/86673ce9-6fcc-463e-b465-8bdfc67ac6b9" />
+<img width="1615" height="595" alt="Image" src="https://github.com/user-attachments/assets/01b50231-0cfb-4a66-a040-32e657bc51e2" />
 
 ## EC2A output:
 
-<img width="1903" height="932" alt="Image" src="https://github.com/user-attachments/assets/79c1d202-814e-4924-9058-2f3bb6adc0b6" />
+<img width="1903" height="932" alt="Image" src="https://github.com/user-attachments/assets/f3392aff-0937-467a-abb6-3a764a8c6964" />
 
 ## EC2B output:
 
-<img width="1900" height="965" alt="Image" src="https://github.com/user-attachments/assets/667ff92f-7d1d-42e7-8da5-9ca8c75fec7a" />
+<img width="1900" height="965" alt="Image" src="https://github.com/user-attachments/assets/34bbec19-e70e-43b6-b4c3-2eba0f7cbefb" />
 
 ## Target Groups:
 
-<img width="1893" height="907" alt="Image" src="https://github.com/user-attachments/assets/4a87f756-e3ed-4dc6-ba21-e8fd244937b3" />
+<img width="1893" height="907" alt="Image" src="https://github.com/user-attachments/assets/94169ffc-a0d6-4744-8cb3-cdb3abd51a29" />
 
 ## ALB Provisioning:
 
-<img width="1897" height="921" alt="Image" src="https://github.com/user-attachments/assets/1808295f-a1da-4ba9-b276-d10e0e7d8be4" />
+<img width="1897" height="921" alt="Image" src="https://github.com/user-attachments/assets/5c7512e3-f158-4ab9-a6c6-441fbbaddb5b" />
 
 ## ALB Active:
 
-<img width="1900" height="908" alt="Image" src="https://github.com/user-attachments/assets/0324486c-10af-4ba3-8fe3-89bb380ff705" />
+<img width="1900" height="908" alt="Image" src="https://github.com/user-attachments/assets/b1c65529-edea-48dd-9cd1-fc788fc2e37e" />
 
 ## ALB Output:
 
-<img width="1906" height="917" alt="Image" src="https://github.com/user-attachments/assets/938a345d-7e5a-40a7-a2cc-ca385c84e20e" />
+<img width="1906" height="917" alt="Image" src="https://github.com/user-attachments/assets/de1e869f-576c-4da2-b4c0-2f025a32eedb" />
 
 ## Cloud front ALB:
 
-<img width="1912" height="908" alt="Image" src="https://github.com/user-attachments/assets/5ff50ea7-9ed1-4732-9df3-bdeaa6a06775" />
+<img width="1912" height="908" alt="Image" src="https://github.com/user-attachments/assets/2537eec3-cc22-484c-8882-1eaa791a93c6" />
 
 ## Cloud front deploying:
 
-<img width="1895" height="922" alt="Image" src="https://github.com/user-attachments/assets/687baa24-6985-45b4-ae54-42f5bcfb453b" />
+<img width="1895" height="922" alt="Image" src="https://github.com/user-attachments/assets/d334b7a9-111a-41b2-8925-f7dbb26e7025" />
 
 ## Cloud front Active:
 
-<img width="1890" height="898" alt="Image" src="https://github.com/user-attachments/assets/cda2d46b-4033-4f10-a166-69fb0e0c3866" />
+<img width="1890" height="898" alt="Image" src="https://github.com/user-attachments/assets/31eec820-50df-4ec7-a11f-0851b30faa67" />
 
 ## Cloud front output:
 
-<img width="1723" height="967" alt="cloudfront output image-15" src="https://github.com/user-attachments/assets/a176f83d-bb38-481e-ab90-b65373ecdbc1" />
+<img width="1723" height="967" alt="Image" src="https://github.com/user-attachments/assets/98081316-0acd-455b-90d9-d5211688ecd9" />
 
 
 **Uday Sairam Kommineni**
