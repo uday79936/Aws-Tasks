@@ -24,7 +24,7 @@ It ensures high availability, fault tolerance, and automated monitoring and aler
 
 ## 🌐 Architecture Overview
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cafe5683-f921-42b7-9d3b-f1f8af930760" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/121d9879-ac79-40f0-9cbd-e4722f745af5" />
               
 
 ---
@@ -93,35 +93,37 @@ It ensures high availability, fault tolerance, and automated monitoring and aler
 
 ## Load Balancer Configuration (provisioning):
 
-<img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/d4bebf0e-bac4-4e82-88db-d77347dfe100" />
+<img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/0e67b076-8f5c-471a-b513-3f26b6e44804" />
 
 ## Load Balancer Configuration (Active):
 
-<img width="1895" height="945" alt="Image" src="https://github.com/user-attachments/assets/50aa93ae-0e94-4b87-ab66-97ad3dc9a3fb" />
+<img width="1895" height="945" alt="Image" src="https://github.com/user-attachments/assets/ee34a19f-f438-4fd0-9c7b-c0c161b28176" />
 
   ## Target Group Health:
 
-<img width="1902" height="902" alt="Image" src="https://github.com/user-attachments/assets/690c1b4d-20ea-4b10-b330-013d76ce3c71" />
+<img width="1902" height="902" alt="Image" src="https://github.com/user-attachments/assets/13a9a9ee-4a70-4996-8dd0-0d00d8308399" />
 
 ## Auto Scaling Group Settings:
 
-<img width="1887" height="917" alt="Image" src="https://github.com/user-attachments/assets/67b31e69-753e-4be9-be31-8c5fd2251126" />
+<img width="1887" height="917" alt="Image" src="https://github.com/user-attachments/assets/6ff2acfc-6b84-4cc7-9a44-f5f0cbc10d3d" />
 
 ## IAM Role and policies:
 
-<img width="1876" height="937" alt="Image" src="https://github.com/user-attachments/assets/50de6226-72a7-4d60-ad03-e14e4df2489c" />
+<img width="1871" height="942" alt="Image" src="https://github.com/user-attachments/assets/0ecf7464-b85f-4567-9a28-cad556f87a6a" />
 
 ## CloudWatch Alarms history:
 
-<img width="1907" height="913" alt="Image" src="https://github.com/user-attachments/assets/06266f6a-2fd0-450d-807f-03f4877cbbb9" />
+<img width="1907" height="913" alt="Image" src="https://github.com/user-attachments/assets/2f4d20bf-2b34-4c16-a43c-9e006d3f3000" />
+
+## Cloudwatch History:
+
+<img width="1893" height="906" alt="Image" src="https://github.com/user-attachments/assets/1af2d3ad-6696-4717-9c9b-599aba14c9b2" />
 
  ## Email Confirmation for SNS:
 
-<img width="922" height="515" alt="Image" src="https://github.com/user-attachments/assets/c163638e-9ad3-4814-b76f-975fe7fb14e5" />
+<img width="1456" height="801" alt="Image" src="https://github.com/user-attachments/assets/28a02a89-8abe-428c-a285-a9521aab42e7" />
 
-<img width="1893" height="901" alt="Image" src="https://github.com/user-attachments/assets/9968e615-63e1-4de2-8251-df299bd8d6fc" />
-
-<img width="1456" height="801" alt="Image" src="https://github.com/user-attachments/assets/ef3445e6-bb3f-40bc-8c96-d768c6c85ea4" />
+<img width="1441" height="818" alt="Image" src="https://github.com/user-attachments/assets/eb72462b-3121-4d34-bbb3-8182a281931a" />
 
 
 ---
@@ -165,7 +167,7 @@ SNS
 
 ## Sends email alerts when alarms are triggered:
 
-<img width="1441" height="818" alt="Image" src="https://github.com/user-attachments/assets/7b10af4b-e8e1-4a08-8516-4ad27eab0f5a" />
+<img width="1456" height="801" alt="Image" src="https://github.com/user-attachments/assets/1c7f2fe4-a172-4227-ab1e-cae6bd891d91" />
 
 IAM Role
 
@@ -174,7 +176,7 @@ Grants EC2 permissions to write logs and send alerts
 
 ## final output of web hosting:
 
-<img width="1878" height="968" alt="Image" src="https://github.com/user-attachments/assets/7674fffb-302a-4015-a43c-d5e9fc0824ef" />
+<img width="1878" height="968" alt="Image" src="https://github.com/user-attachments/assets/6a68d346-39f9-4f7a-b569-3040aa628dbd" />
 
 
 ---
