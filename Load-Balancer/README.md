@@ -117,6 +117,24 @@ http://<ALB-DNS-Name>
 
 The Load Balancer distributes traffic evenly across both EC2 instances.
 
+## Images:
+
+## 1. App 1 Server EC2:
+
+<img width="1917" height="911" alt="Image" src="https://github.com/user-attachments/assets/a0924d05-24c9-4bc3-8923-86a47d30d565" />
+
+## 2. App 1 Output:
+
+<img width="1915" height="958" alt="Image" src="https://github.com/user-attachments/assets/2a1ae2f0-c28d-40c9-be3d-e3e247339610" />
+
+## 3. App 2 Server EC2:
+
+<img width="1912" height="915" alt="Image" src="https://github.com/user-attachments/assets/dfa93213-c8c3-4427-8137-4dc53a15aa1e" />
+
+## 4. APP 2 Output:
+
+<img width="1912" height="947" alt="Image" src="https://github.com/user-attachments/assets/d9d0221e-8e28-432b-9af7-a6e129b00ac1" />
+
 ## ✅ Outcome:
 
 Highly available eCommerce web application hosted on AWS EC2
