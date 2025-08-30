@@ -135,6 +135,23 @@ The Load Balancer distributes traffic evenly across both EC2 instances.
 
 <img width="1912" height="947" alt="Image" src="https://github.com/user-attachments/assets/d9d0221e-8e28-432b-9af7-a6e129b00ac1" />
 
+## 5. Target Group:
+
+<img width="1915" height="921" alt="Image" src="https://github.com/user-attachments/assets/d677d32e-2231-4812-b670-581244ee56fb" />
+
+## 6. App ALB Provisioning:
+
+<img width="1912" height="911" alt="Image" src="https://github.com/user-attachments/assets/4c7eae92-ee63-438f-893f-119c5de79d3c" />
+
+## 7. App ALB Active:
+
+<img width="1917" height="875" alt="Image" src="https://github.com/user-attachments/assets/dd6ded51-86a1-4101-a867-b6f54144613b" />
+
+## 8. APP ALB Output:
+
+<img width="1916" height="965" alt="Image" src="https://github.com/user-attachments/assets/56c13941-734f-46b9-b2ff-387c292b38e4" />
+
+
 ## ✅ Outcome:
 
 Highly available eCommerce web application hosted on AWS EC2
