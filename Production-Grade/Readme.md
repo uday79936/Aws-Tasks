@@ -315,6 +315,62 @@ No re-IP required
 
 <img width="1912" height="921" alt="Image" src="https://github.com/user-attachments/assets/beeb62ab-7a37-4c32-bb1b-bfaeb03957af" />
 
+## 9. Edge subnet associate with public-rt:
+
+<img width="1911" height="910" alt="Image" src="https://github.com/user-attachments/assets/7ca1a713-902b-4411-a05d-367b7f11e66c" />
+
+## 10. Private Route-table:
+
+<img width="1916" height="916" alt="Image" src="https://github.com/user-attachments/assets/fdf3c860-77f0-4c4f-b044-32bdbf74311d" />
+
+## 11. Web subnet associate with pvt-rt:
+
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/9cc97e8d-5e9d-4e09-9f6b-0652bcd46552" />
+
+## 12. app subnet associate with pvt-rt:
+
+<img width="1918" height="921" alt="Image" src="https://github.com/user-attachments/assets/4ff6302f-0e61-46f0-8702-f082492b266a" />
+
+## 13. Platform subnet associate with pvt-rt:
+
+<img width="1918" height="918" alt="Image" src="https://github.com/user-attachments/assets/c2409b2a-29d5-47ea-9725-65c5990da0a7" />
+
+## 14. Shared subnet associate with pvt-rt:
+
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/c6309339-579a-480b-9c6c-db3359712bb6" />
+
+## 15. Sai-igw:
+
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/16a2caa4-9ba1-47d6-b80b-c0a4d57c96b8" />
+
+## 16. Admin subnet:
+
+<img width="1912" height="920" alt="Image" src="https://github.com/user-attachments/assets/fb085da6-b4d5-406b-8a6e-7cbb679e58de" />
+
+## 17. Edge Subnet:
+
+<img width="1917" height="913" alt="Image" src="https://github.com/user-attachments/assets/b54d41d2-09e3-4843-80af-013907c5fc85" />
+
+## 18. Web subnet:
+
+<img width="1918" height="927" alt="Image" src="https://github.com/user-attachments/assets/48245115-ff1d-440c-b328-51f6d3ba4b72" />
+
+## 19. App subnet:
+
+<img width="1916" height="918" alt="Image" src="https://github.com/user-attachments/assets/d63a160f-e33b-4047-8a2c-ad791af42c5b" />
+
+## 20. Platform subnet:
+
+<img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/cf1a177f-c727-45cb-b987-b1a34289a871" />
+
+## 21. Shared subnet:
+
+<img width="1917" height="912" alt="Image" src="https://github.com/user-attachments/assets/996f2d24-88c8-4dfc-87de-8add49944fc4" />
+
+## 22. Output:
+
+<img width="936" height="514" alt="Image" src="https://github.com/user-attachments/assets/3987b66f-433b-44f9-86c1-7b6f9535ad21" />
+
 ## Author:
 
 **Uday Sairam Kommineni**
