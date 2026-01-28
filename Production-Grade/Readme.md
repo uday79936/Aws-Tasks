@@ -283,6 +283,37 @@ No re-IP required
 
 ## Images:
 
+## 1. V.P.C Creation:
+
+<img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/fbd9e4f1-f5cf-414c-b6c6-760787776929" />
+
+## 2. Admin subnet:
+
+<img width="1913" height="908" alt="Image" src="https://github.com/user-attachments/assets/adab33ec-e153-48e3-a194-879383ad1a7c" />
+
+## 3. Edge Subnet:
+
+<img width="1915" height="910" alt="Image" src="https://github.com/user-attachments/assets/e0a5fc25-371e-4d8d-9c98-ef772a83030a" />
+
+## 4. Web subnet:
+
+<img width="1908" height="916" alt="Image" src="https://github.com/user-attachments/assets/434783f8-18d1-4bfb-a9c7-71500cd7b4e7" />
+
+## 5. App Subnet:
+
+<img width="1915" height="917" alt="Image" src="https://github.com/user-attachments/assets/da3e7f81-4c98-4e56-8669-d47cf93eb42b" />
+
+## 6. Platform Subnet:
+
+<img width="1917" height="910" alt="Image" src="https://github.com/user-attachments/assets/ef28900e-eee3-4052-aa62-ab5d20594a6b" />
+
+## 7. Shared Subnet:
+
+<img width="1917" height="918" alt="Image" src="https://github.com/user-attachments/assets/cc51e089-d376-4aba-b135-f29306fbd91c" />
+
+## 8. Admin subnet associate with public-rt:
+
+<img width="1912" height="921" alt="Image" src="https://github.com/user-attachments/assets/beeb62ab-7a37-4c32-bb1b-bfaeb03957af" />
 
 ## Author:
 
